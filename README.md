@@ -26,9 +26,6 @@ Here are some ideas to get you started:
 - 🎓 B.Tech Computer Science @ IIT Mandi
 - 🌱 I’m currently interested in Deep learning
 - 📬 Reach me: [bhavikostwal45@gmail.com](mailto:bhavikostwal45@gmail.com)
-<!-- - 🤖 Passionate about building **AI-powered agents**, tools & systems
-- 🌍 Going on Semester Exchange to **TUM, Germany (Oct ‘25 - Mar ‘26)** 
-- 💬 Ask me about: `DL`, `Transformers`, `Agentic AI`, `C++ Systems` -->
 
 ---
 
