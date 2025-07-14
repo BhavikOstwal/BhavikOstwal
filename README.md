@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **BhavikOstwal/BhavikOstwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,52 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=EAF2F8&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Bhavik+Ostwal.;Just+another+learner+trying+to+build+meaningful+things." alt="Typing SVG" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 B.Tech Computer Science @ IIT Mandi
+- 🌱 I’m currently interested in Deep learning
+<!-- - 🤖 Passionate about building **AI-powered agents**, tools & systems
+- 🌍 Going on Semester Exchange to **TUM, Germany (Oct ‘25 - Mar ‘26)** 
+- 💬 Ask me about: `DL`, `Transformers`, `Agentic AI`, `C++ Systems` -->
+- 📬 Reach me: [bhavikostwal45@gmail.com](mailto:bhavikostwal45@gmail.com)
+
+---
+
+### ⚙️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,qt,linux,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=docker,js,git,postman" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhavikostwal&show_icons=true&rank_icon=github&theme=transparent&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bhavikostwal&theme=transparent&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavikostwal&layout=compact&theme=transparent&hide_border=true&langs_count=8" width="35%" />
+</p>
+
+---
+
+<!-- ### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bhavikostwal&theme=onedark&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+-->
+
+📫 Let's Connect
+<p align="center"> <a href="mailto:bhavikostwal45@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a> <a href="https://linkedin.com/in/bhavikostwal"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/bhavikostwal"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a> </p>
