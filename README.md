@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🎓 B.Tech Computer Science @ IIT Mandi
 - 🌱 I’m currently interested in Deep learning
-- 📬 Reach me: [bhavikostwal45@gmail.com](mailto:bhavikostwal45@gmail.com)
+- 📬 Reach me: [ostwal.work@gmail.com](mailto:ostwal.work@gmail.com)
 
 ---
 
@@ -58,4 +58,4 @@ Here are some ideas to get you started:
 -->
 
 📫 Let's Connect
-<p align="center"> <a href="mailto:bhavikostwal45@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a> <a href="https://linkedin.com/in/bhavikostwal"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a> </p>
+<p align="center"> <a href="mailto:ostwal.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a> <a href="https://linkedin.com/in/bhavikostwal"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a> </p>
