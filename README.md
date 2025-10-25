@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ### ⚙️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,qt,linux,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,qt,linux,pytorch,opencv,react,nodejs" />
   <img src="https://skillicons.dev/icons?i=docker,js,git,postman" />
 </p>
 
