@@ -21,24 +21,24 @@ Here are some ideas to get you started:
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🎓 B.Tech Computer Science @ IIT Mandi
-- 🌱 I’m currently interested in Deep learning
-- 📬 Reach me: [ostwal.work@gmail.com](mailto:ostwal.work@gmail.com)
+- B.Tech Computer Science @ IIT Mandi
+- I’m currently interested in Deep learning
+- Reach me: [ostwal.work@gmail.com](mailto:ostwal.work@gmail.com)
 
 ---
 
-### ⚙️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,qt,linux,pytorch,opencv,react,nodejs" />
-  <img src="https://skillicons.dev/icons?i=docker,js,git,postman" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,qt,linux,pytorch,opencv,react,nodejs" /><br>
+  <img src="https://skillicons.dev/icons?i=docker,js,git,postman,mongodb,expressjs,bash" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bhavikostwal&show_icons=true&rank_icon=github&theme=transparent&count_private=true&hide_border=true" width="48%" />
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavikostwal&layout=compact&theme=transparent&hide_border=true&langs_count=8" width="35%" />
 </p>
 
----
+
 
 <!-- ### 🏆 GitHub Trophies
 
@@ -57,5 +57,5 @@ Here are some ideas to get you started:
 ---
 -->
 
-📫 Let's Connect
+Let's Connect
 <p align="center"> <a href="mailto:ostwal.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a> <a href="https://linkedin.com/in/bhavikostwal"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a> </p>
